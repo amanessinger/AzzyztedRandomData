@@ -6,5 +6,5 @@ The plan is, to create a Java library that can generate **given names**, **surna
 **addresses**, **social security numbers** and other such things that tests of or
 prototypes for applications need. 
 
-The directory doc/mind_map contains a SimpleMind mind map and two exports as PDF and 
+The directory `doc/mind_map` contains a SimpleMind mind map and two exports as PDF and
 TXT outline. Have a look at that for the concepts that I'm after.
