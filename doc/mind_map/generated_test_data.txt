@@ -1,0 +1,40 @@
+﻿Generated test data
+	Customizable mix of versions from ontology
+		Person, 50% Austrian, 90% European
+		Date ranges
+		Distributions
+	Variation over cardinality
+		Zero
+		One
+		Some
+		Many
+		Supports judging UI of prototype
+	Names
+		Culture
+			Language
+			Era
+				Old
+				Timeless
+				Modern
+		Probability
+			> nextGaussian
+	Families
+		generatePartner()
+		generateChild()
+		generateParent(Sex s)
+	Unique IDs
+		Validation algorithms
+		Dependent values
+			SSN Austria (birthday)
+		Examples
+			Social Security Number
+			License plate
+			Serial number
+			Firmenbuchnummer
+	Batch
+		Duplicate protection
+			Person
+				Name
+				Birthday
+			Corporation
+				Name
