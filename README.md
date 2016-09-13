@@ -1,8 +1,10 @@
 # AzzyztedRandomData
 A library to generate random but plausible test data
 
-This project is in its embryonic phase. There is no useful functionality yet. 
-The plan is, to create a Java library that can generate **given names**, **surnames**, 
+This project is in its embryonic phase - and already on hold :)
+
+There is no useful functionality yet. 
+The original plan was, to create a Java library that can generate **given names**, **surnames**, 
 **addresses**, **social security numbers** and other such things that tests of or
 prototypes for applications need. 
 
